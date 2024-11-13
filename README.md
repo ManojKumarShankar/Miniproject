@@ -1,6 +1,5 @@
-## AI BASED PICTURE TRANSLATION
-Small description about the project like one below
-The integration of a chatbot within a hostel booking system, aimed at streamlining the reservation process for students and improving the overall user experience.
+## TITLE 
+AI BASED PICTURE TRANSLATION
 
 ## About
 <!--Detailed Description about the project-->
